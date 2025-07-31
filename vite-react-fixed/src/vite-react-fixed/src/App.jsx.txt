@@ -1,0 +1,10 @@
+import React from 'react';
+
+export default function App() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h1>สวัสดีครับ! นี่คือเว็บ AI วิเคราะห์หุ้น</h1>
+      <p>พร้อมใช้งานบน Vite + React เรียบร้อยแล้ว</p>
+    </div>
+  );
+}
